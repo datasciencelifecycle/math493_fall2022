@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_picture.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/college_medium.png">
 
 
 # Predict merchant churns

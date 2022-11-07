@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: Meet the Team
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_picture.png" width="800">
+ Clockwise from top left: [Carrie](#carrie-snodgrass), [Carsob](#carson), [Grace](#grace), [Lilly](#lilly)
+ 
+### Meet the team
 
-### About
-
-Team Photo
-
-Individual Bios
+### Carrie Snodgrass
 
 Roles or Contributions (optional, only if it makes sense to your team)
 

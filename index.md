@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/college_medium.png">
 
 
-# Project Name
+# Predict merchant churns
 
-## The Team
-
-**Project Lead/s:**
-
-**Data Science Lead/s:** 
-
-**DSSG Fellows:** 
+**Team members:**
+***Carrie
+***Carson 
+***Grace
+***Lilly
 
 # Abstract or executive summary
+
+The project is aimed at building predictive models that can help predict merchant churn.

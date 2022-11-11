@@ -3,8 +3,6 @@ layout: page
 title: The Data
 ---
 
-**Data**
-
 ### The Dataset
 
 To perform our analysis, we used FMCG data from an Indonesian distribution center. The raw data contained the following attributes

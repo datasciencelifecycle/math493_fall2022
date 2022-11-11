@@ -15,7 +15,7 @@ baseurl:          "/math493_fall2022"
 paginate:         5
 
 # Custom vars
-version:          0.1.1
+version:          1.0.0
 
 github:
   repo:           https://github.com/datasciencelifecycle/math493_fall2022/

@@ -3,7 +3,7 @@ layout: page
 title: Logistic Regression
 ---
 
-We build a logistic regression model to predict whether a merchant will churn. We devide the dataset, 70% designated to training the models, and 30% designated to testing the models.
+We build a logistic regression model to predict whether a merchant will churn. We divide the dataset, 70% designated to training the models, and 30% designated to testing the models.
 
 ## First, we create a model aggregated around orders. 
 

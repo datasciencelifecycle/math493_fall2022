@@ -29,7 +29,7 @@ These are the variables we use to make the model:
 - `avg_unique_sku_per_order`, average unique SKUs per order
 - `avg_unique_top_cat_per_order`, average unique top categories per order
 - `avg_unique_sub_cat_per_order`, average unique subcategories per order 
-- `avg_spent_per_order`, average spent(Rp) per order
+- `avg_spent_per_order`, average spent (Rp) per order
 - `tenure_month`, number of months the merchant has been purchasing
 - `avg_units_per_order`, average number items purchased per order
 

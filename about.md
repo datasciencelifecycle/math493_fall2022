@@ -3,15 +3,25 @@ layout: page
 title: Meet the Team
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/group_picture.png" width="800">
- Clockwise from top left: [Carrie](#carrie-snodgrass), [Carson](#carson), [Grace](#grace), [Lilly](#lilly)
+From Left to Right: [Carrie Snodgrass](https://github.com/carriesno), [Carson Slater](https://carsonslater.github.io/portfolio2022/), [Grace Flitsch](https://github.com/graceflitsch), and [Lilly Nikkel](https://github.com/lillynikkel).
  
-### Meet the team
+# Meet the Team:
 
-### Carrie Snodgrass
+### [Carrie Snodgrass](https://github.com/carriesno)
+- Built the logistic regresssion models.
+- Developed data preprocessing functions.
+- Developed project website.
 
-Roles or Contributions (optional, only if it makes sense to your team)
+### [Carson Slater](https://carsonslater.github.io/portfolio2022/)
+- Proposed math modeling ideas/model evaluation.
+- Developed project website.
 
-Where readers can find more details about the project, e.g. code, data, reports, etc.
+### [Grace Flitsch](https://github.com/graceflitsch)
+- Chief data preprocessing engineer/wrangler.
+- - Developed data preprocessing functions.
+- Worked on the decision tree model.
 
-Acknowledgements
+### [Lilly Nikkel](https://github.com/lillynikkel).
+- Built the decision tree model.
+- Worked on model tuning.
 

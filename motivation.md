@@ -3,26 +3,15 @@ layout: page
 title: Motivation
 ---
 
-**Questions**
+**The Problem**
+<img width="663" alt="Screen Shot 2022-11-11 at 3 08 27 PM" src="https://user-images.githubusercontent.com/98668121/201431532-7fc7d23f-3ba0-4f12-a9f7-83897fb37bc5.png">
+[Awantunai](https://www.awantunai.co.id) provides supply chain business solutions with embedded financing to suppliers and merchants in Indonesia. One potential business solution is tool for suppliers that can predict if a client (i.e. merchant) will consistently come back to buy more FMCG's (fast-moving consumer goods).We want to investigate whether or not we can built a model to accurately predict whether or not an order was placed by a merchant who will eventually turn into a 'churner'. A churner is a merchant who only purchases from a supplier for a short season and never comes back again. 
 
-What question(s) are you answering?
-What need are you filling?
+**The Question**
 
 Based on transaction data, can we predict if a merchant will churn? 
 
 **Background**
 
-Why is this important?
-What work has previously been done?
+If churning can be predicted, marketing resources can be better allocated from the suppliers to the merchants. Identifying churners can give the suppliers information on which merchants to target with discounts or advertisements for client retention. In addition, suppliers can improve management of customer relationships by identifying customers who will likely stop buying, so that actions can be taken to save them. Loyalty can be improved by rewarding loyal customers. 
 
-If churning can be predicted, resources can be directed to merchants who are loyal to the suppliers. In addition, suppliers can improve management of customer relationships by identifying customers who will likely stop buying, so that actions can be taken to save them. Loyalty can be improved by rewarding loyal customers. 
-
-**Stakeholders**
-
-Who are the important stakeholders and what has your team done to take them into consideration?
-What are the use cases you’re building for? 
-
-**Ethics**
-
-What are the ethical questions you considered as a team?
-How are you addressing them in your work?

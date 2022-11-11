@@ -14,14 +14,14 @@
 
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/motivation' | prepend: site.baseurl }}">Motivation</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/data' | prepend: site.baseurl }}">The Data</a>
       
       <!-- An example of a section with drop-down menu -->
       <button class="dropdown-btn">Methods
           <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-container">
-          <a href="{{ '/data' | prepend: site.baseurl }}">The Data</a><br/>
-          <a href="{{ '/method1' | prepend: site.baseurl }}">Logistic Regression</a>
+          <a href="{{ '/method1' | prepend: site.baseurl }}">Logistic Regression</a><br/>
           <a href="{{ '/method2' | prepend: site.baseurl }}">Decision Tree Model</a>
       </div>
       

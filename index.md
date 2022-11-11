@@ -2,16 +2,11 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/college_medium.png">
-
+![Wheaton-College-logo](https://user-images.githubusercontent.com/98668121/201431994-c591838c-63f6-4f88-83ee-f76cab9dabaa.jpg)
 
 # Predicting Merchant churns
 
-**Team members:**
-**Carrie
-**Carson 
-**Grace
-**Lilly
+**Team members: [Carrie Snodgrass](https://www.linkedin.com/in/carrie-snodgrass-9b53891a1/), [Carson Slater](https://www.linkedin.com/in/carsonslateratwheaton/), [Grace Flitsch](https://www.linkedin.com/in/grace-flitsch/), [Lilly Nikkel](https://www.linkedin.com/in/lillynikkel/)**
 
 # Abstract
 

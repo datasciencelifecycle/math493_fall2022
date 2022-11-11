@@ -21,7 +21,7 @@ From Left to Right: [Carrie Snodgrass](https://github.com/carriesno), [Carson Sl
 - - Developed data preprocessing functions.
 - Worked on the decision tree model.
 
-### [Lilly Nikkel](https://github.com/lillynikkel).
+### [Lilly Nikkel](https://github.com/lillynikkel)
 - Built the decision tree model.
 - Worked on model tuning.
 

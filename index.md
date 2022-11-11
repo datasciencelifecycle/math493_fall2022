@@ -8,6 +8,8 @@ layout: default
 
 **Team Members: [Carrie Snodgrass](https://www.linkedin.com/in/carrie-snodgrass-9b53891a1/), [Carson Slater](https://www.linkedin.com/in/carsonslateratwheaton/), [Grace Flitsch](https://www.linkedin.com/in/grace-flitsch/), [Lilly Nikkel](https://www.linkedin.com/in/lillynikkel/)**
 
+**Advisor: [Dr. Ying Li](https://www.linkedin.com/in/yingli7/)**
+
 # Abstract
 
 The project is aimed at building predictive models that can help predict merchant churn. Predicting whether a customer will stop buying can guide relationships with customers to strengthen loyalty. We use a transaction dataset that includes SKU, order, time placed at, merchant, top category, subcateogry, quantity, and price. We aggregate the dataset by order and merchant, and create predictor variables. We build and test logstic regression models and a decision tree model to predict churning.

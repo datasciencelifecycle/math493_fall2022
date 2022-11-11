@@ -3,16 +3,16 @@ layout: page
 title: Logistic Regression
 ---
 
-We build a logistic regression model to predict whether a merchant will churn. We divide the dataset, 70% designated to training the models, and 30% designated to testing the models.
+We built a logistic regression model to predict whether a merchant will churn. We divide the dataset, 70% designated to training the models, and 30% designated to testing the models.
 
 ## First, we create a model aggregated around orders. 
 
 These are the variables we use to make the model:
-- Amount spent (Rp) per order (total_spent)
-- Number of items purchased per order (quantity_purchased)
-- Number of unique SKUs per order (num_skus)
-- Number of months the merchant has been purchasing at time of order (c_tenure)
-- Number of days since the last order (days_since)
+- `total_spent`, amount spent (Rp - Indonesia) per order
+- `quantity_purchased`, number of items purchased per order
+- `num_skus`, number of unique SKUs per order
+- `c_tenure`, number of months the merchant has been purchasing at time of order
+- `days_since`, number of days since the last order
 
 
 <img width="584" alt="Screen Shot 2022-11-10 at 11 39 55 PM" src="https://user-images.githubusercontent.com/78067504/201389957-288d583e-7827-4297-8587-9c6c60dadfcb.png">
@@ -26,12 +26,12 @@ The ROC curve for the model is below:
 ## Second, we create a model aggregated around merchants.
 
 These are the variables we use to make the model:
-- Average unique SKUs per order (avg_unique_sku_per_order)
-- Average unique top categories per order (avg_unique_top_cat_per_order)
-- Average unique subcategories per order (avg_unique_sub_cat_per_order)
-- Average spent(Rp) per order (avg_spent_per_order)
-- Number of months the merchant has been purchasing (tenure_month)
-- Average number items purchased per order (avg_units_per_order)
+- `avg_unique_sku_per_order`, average unique SKUs per order
+- `avg_unique_top_cat_per_order`, average unique top categories per order
+- `avg_unique_sub_cat_per_order`, average unique subcategories per order 
+- `avg_spent_per_order`, average spent(Rp) per order
+- `tenure_month`, number of months the merchant has been purchasing
+- `avg_units_per_order`, average number items purchased per order
 
 
 <img width="655" alt="Screen Shot 2022-11-11 at 11 01 55 AM" src="https://user-images.githubusercontent.com/78067504/201392013-e00352a7-34bb-4e83-a8a1-cfde805b4818.png">

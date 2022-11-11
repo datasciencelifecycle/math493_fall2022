@@ -28,6 +28,6 @@ We grouped by the `order_id` and used the `qty` attribute to find the total quan
 Most of our work was done in a jupyter notebook [`Churning_ID.ipynb`](https://colab.research.google.com/drive/1W0jr3GvOdy2G07TeULOVP9usARw0QYT_?usp=sharing). We made use of the following packages:
 - `pandas`
 - `numpy`
-- `sklearn'
+- `sklearn`
 - `scipy.stats`
 

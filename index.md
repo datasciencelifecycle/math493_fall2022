@@ -6,7 +6,7 @@ layout: default
 
 # Predicting Merchant Churning
 
-**Team members: [Carrie Snodgrass](https://www.linkedin.com/in/carrie-snodgrass-9b53891a1/), [Carson Slater](https://www.linkedin.com/in/carsonslateratwheaton/), [Grace Flitsch](https://www.linkedin.com/in/grace-flitsch/), [Lilly Nikkel](https://www.linkedin.com/in/lillynikkel/)**
+**Team Members: [Carrie Snodgrass](https://www.linkedin.com/in/carrie-snodgrass-9b53891a1/), [Carson Slater](https://www.linkedin.com/in/carsonslateratwheaton/), [Grace Flitsch](https://www.linkedin.com/in/grace-flitsch/), [Lilly Nikkel](https://www.linkedin.com/in/lillynikkel/)**
 
 # Abstract
 

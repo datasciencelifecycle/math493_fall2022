@@ -18,7 +18,7 @@ From Left to Right: [Carrie Snodgrass](https://github.com/carriesno), [Carson Sl
 
 ### [Grace Flitsch](https://github.com/graceflitsch)
 - Chief data preprocessing engineer/wrangler.
-- - Developed data preprocessing functions.
+- Developed data preprocessing functions.
 - Worked on the decision tree model.
 
 ### [Lilly Nikkel](https://github.com/lillynikkel)

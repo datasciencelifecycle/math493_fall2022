@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Wheaton-College-logo](https://user-images.githubusercontent.com/98668121/201431994-c591838c-63f6-4f88-83ee-f76cab9dabaa.jpg)
+![Wheaton-College-logo](https://user-images.githubusercontent.com/98668121/201437986-fdb3a92a-74f9-483d-8ff3-e52c40bb317d.jpg)
 
 # Predicting Merchant Churning
 

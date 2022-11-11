@@ -8,7 +8,7 @@ layout: default
 
 **Team Members: [Carrie Snodgrass](https://www.linkedin.com/in/carrie-snodgrass-9b53891a1/), [Carson Slater](https://www.linkedin.com/in/carsonslateratwheaton/), [Grace Flitsch](https://www.linkedin.com/in/grace-flitsch/), [Lilly Nikkel](https://www.linkedin.com/in/lillynikkel/)**
 
-**Advisor: [Dr. Ying Li](https://www.linkedin.com/in/yingli7/)**
+**Adviser: [Dr. Ying Li](https://www.linkedin.com/in/yingli7/)**
 
 # Abstract
 

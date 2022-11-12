@@ -23,6 +23,13 @@ The ROC curve for the model is below:
 
 ![Unknown](https://user-images.githubusercontent.com/78067504/201390245-6c832f03-7932-4dcd-9971-d7c8fc046426.png)
 
+**This model has an accuracy of 0.32 in predicting churners on the full dataset.**
+
+The ROC curve for the full dataset is below:
+
+![Unknown-4](https://user-images.githubusercontent.com/78067504/201496680-7e17ecff-2237-4bdd-b9c7-1016b2dc36b4.png)
+
+
 ## Second, we create a model aggregated around merchants.
 
 These are the variables we use to make the model:
@@ -43,3 +50,8 @@ The ROC curve for the model is below:
 ![Unknown-2](https://user-images.githubusercontent.com/78067504/201392455-cb5e534b-6f37-499d-8ec5-52caeb9cb245.png)
 
 
+**This model has an accuracy of 0.25 in predicting churners on the full dataset.**
+
+The ROC curve for the full dataset is below:
+
+![Unknown-3](https://user-images.githubusercontent.com/78067504/201496718-0d22b37a-e1a5-4729-8c8a-d8941fff73f8.png)
